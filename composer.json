@@ -1,0 +1,17 @@
+{
+    "name": "osama/google-token",
+    "autoload": {
+        "psr-4": {
+            "Osama\\GoogleToken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osama",
+            "email": "osama3akre@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
